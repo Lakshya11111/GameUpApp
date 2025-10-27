@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "222727693667",
+    "project_id": "gameup-375b0",
+    "storage_bucket": "gameup-375b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222727693667:android:30ee98928fc727ccb11f56",
+        "android_client_info": {
+          "package_name": "com.example.sports_meetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222727693667-3vgf2gojar0k56lav96cjlt4i45iro0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sports_meetup",
+            "certificate_hash": "237b3b0617f9cf836385877389d0751e8502408f"
+          }
+        },
+        {
+          "client_id": "222727693667-n4ap16nb7bcda6blf4ittpaj7kq7q194.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7tnsUMBTlyE27XwqcFlc9Tq0LoukOlnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222727693667-n4ap16nb7bcda6blf4ittpaj7kq7q194.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222727693667-k76eq5un1ut28ngnlbo18i19ehbf35h2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportsMeetup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
