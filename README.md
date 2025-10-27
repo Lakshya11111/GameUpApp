@@ -17,27 +17,33 @@ GameUp is a **Flutter-based sports and gaming meetup app** that helps players fi
 
 ---
 
+## 🎥 Demo Video:
+
+Watch the app in action here 👇  
+[▶️ Watch Demo Video](https://drive.google.com/file/d/18grOOVTZG7GSYHlaxjQ7zG4TbDh5y0rG/view?usp=drive_link)  
+*(Hosted on Google Drive)*
+
+---
+
 ## 📸 Screenshots:
 
 **Actual app looks even better! 😃**
 
 <kbd>
 
-  <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/1.png" width=30% height=30%/>
+  <img src="https://github.com/Lakshya11111/GameUpApp/blob/main/screenshots/WhatsApp%20Image%202025-10-25%20at%2011.09.36_511e2b87.jpg" width=30% height=30%/>
 
-  <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/2.png" width=30% height=30%/>
+  <img src="https://github.com/Lakshya11111/GameUpApp/blob/main/screenshots/WhatsApp%20Image%202025-10-25%20at%2011.09.35_ceb2ebbe.jpg" width=30% height=30%/>
 
-  <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/3.png" width=30% height=30%/>
+  <img src="https://github.com/Lakshya11111/GameUpApp/blob/main/screenshots/WhatsApp%20Image%202025-10-25%20at%2011.09.35_30772ded.jpg" width=30% height=30%/>
 
-  <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/4.png" width=30% height=30%/>
+  <img src="https://github.com/Lakshya11111/GameUpApp/blob/main/screenshots/WhatsApp%20Image%202025-10-25%20at%2011.09.34_62334d63.jpg" width=30% height=30%/>
 
-  <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/5.png" width=30% height=30%/>
+  <img src="https://github.com/Lakshya11111/GameUpApp/blob/main/screenshots/WhatsApp%20Image%202025-10-25%20at%2011.09.33_4191c86e.jpg" width=30% height=30%/>
 
-  <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/6.png" width=30% height=30%/>
+  <img src="https://github.com/Lakshya11111/GameUpApp/blob/main/screenshots/WhatsApp%20Image%202025-10-25%20at%2011.09.32_c40dff37.jpg" width=30% height=30%/>
 
-  <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/7.png" width=30% height=30%/>
-
-  <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/8.png" width=30% height=30%/>
+  <img src="https://github.com/Lakshya11111/GameUpApp/blob/main/screenshots/WhatsApp%20Image%202025-10-25%20at%2022.14.34_68532ec3.jpg" width=30% height=30%/>
 
 </kbd>
 
